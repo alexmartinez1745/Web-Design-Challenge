@@ -26,8 +26,12 @@ p {
     padding-block: 0px;
 }
 
-/* .container {
-    background-color: white; */
+.compcontain {
+    background-color: white;
+    height: 850px;
+    width: 1000px;
+    padding: 30px;
+}
 
 .box {
     height: 410px;
