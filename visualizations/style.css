@@ -31,6 +31,7 @@ p {
     height: 850px;
     width: 1000px;
     padding: 30px;
+    margin-bottom: 40px;
 }
 
 .box {
@@ -38,7 +39,7 @@ p {
     width: 360px;
     padding: 40px;
     background: white;
-      }
+}
 
 .box1 {
     height: 470px;
