@@ -26,6 +26,19 @@ p {
     padding-block: 0px;
 }
 
-.container {
-    background-color: white;
+/* .container {
+    background-color: white; */
 
+.box {
+    height: 410px;
+    width: 360px;
+    padding: 40px;
+    background: white;
+      }
+
+.box1 {
+    height: 470px;
+    width: 700px;
+    padding: 50px;
+    background-color: white;
+}
