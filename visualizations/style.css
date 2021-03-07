@@ -9,16 +9,23 @@ body {
 .navbar-brand {
     font-weight: bold;
     font-size: 30px;
+    text-emphasis-color: white;
 }
 
-h2 {
-    color: teal;
+h2, h4 {
+    color: rgb(33, 179, 179);
+    background-color: white;
 }
 
-h4 {
-    color: teal;
+p {
+    background-color: white;
 }
 
-button {
-    background-color: teal;
+.btn  {
+    background-color: rgb(30, 168, 168);
+    padding-block: 0px;
 }
+
+.container {
+    background-color: white;
+
