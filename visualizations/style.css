@@ -8,8 +8,8 @@ body {
 
 .navbar-brand {
     font-weight: bold;
-    font-size: 30px;
-    text-emphasis-color: white;
+    font-size: 25px;
+    color: white !important;
 }
 
 h2, h4 {
@@ -54,11 +54,15 @@ p {
     padding: 40px
 }
 
-.navbar-brand {
-    color: white !important;
-}
-
 .box3 {
     background-color: white;
     padding: 30px;
+}
+
+.landimage {
+    float: left;
+}
+
+#imgselect {
+    border: rgb(30, 168, 168) 2px solid;    
 }
