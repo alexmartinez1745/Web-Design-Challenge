@@ -2,14 +2,16 @@ body {
     background-color: #eee;
 }
 
-/* .col-md-6 {
-    background-color: white;
-} */
-
 .navbar-brand {
     font-weight: bold;
     font-size: 25px;
     color: white !important;
+}
+
+.btn  {
+    background-color: rgb(30, 168, 168);
+    padding-right: 0px;
+    padding-bottom: 0px;
 }
 
 h2, h4 {
@@ -21,36 +23,9 @@ p {
     background-color: white;
 }
 
-.btn  {
-    background-color: rgb(30, 168, 168);
-    padding-right: 0px;
-    padding-bottom: 0px;
-}
-
-.compcontain {
-    background-color: white;
-    height: 850px;
-    width: 1000px;
-    padding: 30px;
-    margin-bottom: 40px;
-}
-
 .col-lg-12 {
     padding: 25px;
     background: white;
-}
-
-.box1 {
-    height: 470px;
-    width: 700px;
-    padding: 50px;
-    background-color: white;
-}
-
-
-.box3 {
-    background-color: white;
-    padding: 30px;
 }
 
 .landimage {
@@ -61,6 +36,8 @@ p {
     border: rgb(30, 168, 168) 2px solid;    
 }
 
-.plotsummary {
-    text-align: left;
-}
+#compcontain {
+    background-color: white;
+    padding: 30px;
+} 
+
