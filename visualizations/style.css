@@ -21,6 +21,8 @@ h2, h4 {
 
 p {
     background-color: white;
+    font-size: 17px;
+    padding: 10px;
 }
 
 .col-lg-12 {
@@ -41,3 +43,9 @@ p {
     padding: 30px;
 } 
 
+/* @media(max-width:767px) {
+    .navbar.bg-light {
+        background-color: rgb(30, 168, 168);
+    }
+
+} */
