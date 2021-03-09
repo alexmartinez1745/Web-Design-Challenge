@@ -35,9 +35,7 @@ p {
     margin-bottom: 40px;
 }
 
-.box {
-    height: 330px;
-    width: 400px;
+.col-lg-12 {
     padding: 25px;
     background: white;
 }
@@ -49,12 +47,6 @@ p {
     background-color: white;
 }
 
-.box2 {
-    height: 600px;
-    width: 700px;
-    background-color: white;
-    padding: 40px;
-}
 
 .box3 {
     background-color: white;
