@@ -2,9 +2,9 @@ body {
     background-color: #eee;
 }
 
-.col-md-6 {
+/* .col-md-6 {
     background-color: white;
-}
+} */
 
 .navbar-brand {
     font-weight: bold;
@@ -36,9 +36,9 @@ p {
 }
 
 .box {
-    height: 410px;
-    width: 360px;
-    padding: 40px;
+    height: 330px;
+    width: 400px;
+    padding: 25px;
     background: white;
 }
 
@@ -50,8 +50,10 @@ p {
 }
 
 .box2 {
+    height: 600px;
+    width: 700px;
     background-color: white;
-    padding: 40px
+    padding: 40px;
 }
 
 .box3 {
@@ -65,4 +67,8 @@ p {
 
 #imgselect {
     border: rgb(30, 168, 168) 2px solid;    
+}
+
+.plotsummary {
+    text-align: left;
 }
