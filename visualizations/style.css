@@ -1,48 +1,68 @@
+/* Color to the body as whole */
 body {
     background-color: #eee;
 }
 
+/* Dimensions and button radius for navbar brand */
 .navbar-brand {
     font-weight: bold;
     font-size: 25px;
     color: white !important;
     background-color:rgb(30, 168, 168);
-    padding: 10px;
-    
+    padding: 15px;
+    border-radius: 5px;
 }
 
+/* Headers */
 h2, h4 {
     color: rgb(33, 179, 179);
     background-color: white;
 }
 
+/* P-tags */
 p {
     background-color: white;
     font-size: 17px;
     padding: 10px;
 }
 
+/* Each "box" on page */
 .col-lg-12 {
     padding: 25px;
     background: white;
 }
 
+/* Landing page image for summary */
 .landimage {
     float: left;
 }
 
+/* Add border to image on graph that is selected */
 #imgselect {
     border: rgb(30, 168, 168) 2px solid;    
 }
 
+/* Background for dropdown items */
+.dropdown-item.active {
+        background-color: #eee;
+        color: black;
+    }
+
+/* Container for comparisons page */
 #compcontain {
     background-color: white;
     padding: 30px;
 } 
 
+/* Add media for smaller screen navbar */
 @media(max-width:767px) {
     .navbar.bg-light {
-        background-color: rgb(30, 168, 168);
+        background-color: rgb(30, 168, 168) !important;
+        padding: inherit;
+    }
+
+    #navbarSupportedContent {
+        background-color: white;
     }
 
 }
