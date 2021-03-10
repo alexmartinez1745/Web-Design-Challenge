@@ -6,12 +6,9 @@ body {
     font-weight: bold;
     font-size: 25px;
     color: white !important;
-}
-
-.btn  {
-    background-color: rgb(30, 168, 168);
-    padding-right: 0px;
-    padding-bottom: 0px;
+    background-color:rgb(30, 168, 168);
+    padding: 10px;
+    
 }
 
 h2, h4 {
@@ -43,9 +40,9 @@ p {
     padding: 30px;
 } 
 
-/* @media(max-width:767px) {
+@media(max-width:767px) {
     .navbar.bg-light {
         background-color: rgb(30, 168, 168);
     }
 
-} */
+}
