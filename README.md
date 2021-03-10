@@ -1,3 +1,5 @@
+# Completed Web Design Page: [Web-Viz](https://alexmartinez1745.github.io/Web-Design-Challenge/)
+
 # Web Visualization Dashboard (Latitude) 
 
 ### Website Requirements
