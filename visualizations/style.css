@@ -54,10 +54,6 @@ p {
     padding: 30px;
 } 
 
-/* .navbar-toggler {
-    border: 1px solid;
-    border-color: red !important;
-} */
 
 /* Add media for smaller screen navbar */
 @media(max-width:767px) {
